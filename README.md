@@ -8,7 +8,7 @@ move freight with **drivers / fleet operators** who bid to transport it.
 > **Developed & Engineered by [Hussain Emad Mash](https://github.com/hussain1937) and the team.**
 ## Screenshots
 
-### Mobile Application AR
+### Mobile Application
 
 ![Darbak Mobile App AR](<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 11 17 56 PM" src="https://github.com/user-attachments/assets/2a59e926-6ced-444a-8a9d-efdcbfaf6005" />
 )
