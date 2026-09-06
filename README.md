@@ -10,12 +10,10 @@ move freight with **drivers / fleet operators** who bid to transport it.
 
 ### Mobile Application
 
-![Darbak Mobile App AR](<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 11 17 56 PM" src="https://github.com/user-attachments/assets/7241b1e7-1859-459d-b6b0-9ee11f8e8969" />
-<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 24 25 PM" src="https://github.com/user-attachments/assets/86a88591-386c-4dd4-b4df-de276cba199e" />
-<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 56 PM" src="https://github.com/user-attachments/assets/599f48fd-dbbb-4eed-92be-56afbc07c321" />
-<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 20 PM" src="https://github.com/user-attachments/assets/f75a5456-5d5e-4384-8813-ded392892606" />
-<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 32 PM" src="https://github.com/user-attachments/assets/d69b1f73-794a-42e0-95c0-74ad9bf6a771" />
-<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 21 PM" src="https://github.com/user-attachments/assets/78b743c1-4b84-4c5d-bfbc-c6e32c97f4de" />
+![Darbak Mobile App AR](<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 24 25 PM" src="https://github.com/user-attachments/assets/8d9f4b7f-a7b8-4e78-9dac-74fa530dd6c4" />
+<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 56 PM" src="https://github.com/user-attachments/assets/8b89781a-8390-4399-b6da-77d679a4c8dd" />
+<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 20 PM" src="https://github.com/user-attachments/assets/50c85193-968b-4a75-b27c-b9474e3cd4a0" />
+<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 21 PM" src="https://github.com/user-attachments/assets/9eb6bca8-3501-4ea6-9729-505d46194435" />
 )
 
 ---
