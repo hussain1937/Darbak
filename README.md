@@ -4,7 +4,7 @@ Darbak is a full-stack logistics platform that connects **shippers** who need to
 move freight with **drivers / fleet operators** who bid to transport it.
 
 > Graduation project — Bachelor of Computer Science.
-
+> **Developed & Engineered by [Hussain Emad Mash](https://github.com/hussain1937) and the team.**
 ## Screenshots
 
 ### Mobile Application EN
