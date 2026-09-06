@@ -10,13 +10,13 @@ move freight with **drivers / fleet operators** who bid to transport it.
 
 ### Mobile Application
 
-(<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 21 PM" src="https://github.com/user-attachments/assets/2ee2fb09-39db-430a-b98c-ec2db9f33cfa" />
+<img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 21 PM" src="https://github.com/user-attachments/assets/2ee2fb09-39db-430a-b98c-ec2db9f33cfa" />
 <img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 20 32 PM" src="https://github.com/user-attachments/assets/48ce617e-cc0f-4511-828d-1ced6c6510db" />
 <img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 20 PM" src="https://github.com/user-attachments/assets/d887e224-8548-4de1-9858-0368455e14f6" />
 <img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 23 56 PM" src="https://github.com/user-attachments/assets/1fb9759c-90d0-4965-b160-adb03c8b28c8" />
 <img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 10 24 25 PM" src="https://github.com/user-attachments/assets/ced440f8-ac2f-49de-9584-807511c49505" />
 <img width="760" height="1600" alt="WhatsApp Image 2026-06-04 at 11 17 56 PM" src="https://github.com/user-attachments/assets/6f093774-bbed-4dd3-a497-651ef8c32051" />
-)
+
 
 ---
 
